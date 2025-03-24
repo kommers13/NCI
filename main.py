@@ -65,7 +65,7 @@ async def main():
 
         client = OpenAI(
             base_url="https://free.v36.cm/v1/",
-            api_key="sk-YzLUNROgXwAUVGsu394aA972536047E5Ab1bEd6a5627D15b",
+            api_key="Здесь должен быть API ключ",
             default_headers={"x-foo": "true"}
         )
 
